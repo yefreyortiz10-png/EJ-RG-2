@@ -21,5 +21,5 @@ bot.say("¡Hola! Soy SmartBot, tu asistente personal.")
 ```
 [Visita mi perfil](https://github.com/yefreyortiz10-png)
 [Logo del proyecto](https://static.thenounproject.com/png/robot-assistant-icon-5706272-512.png)
-# Mi Proyecto
-Bienvenido a mi proyecto 😄✨
+# :fire: SmartBot
+Este es un proyecto :heart::heart:
